@@ -6,6 +6,18 @@ def using_insert(array, element)
   array.insert(element)
 end
 
-def using_uniq
+def using_uniq(array)
+  array.uniq
+end
+
+def using_flatten
+  
+end
+
+def using_delete
+  
+end
+
+def using_delete_at
   
 end
